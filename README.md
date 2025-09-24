@@ -16,7 +16,7 @@ Passionate about **software development, cybersecurity, AI/ML, and multi-agent s
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -43,7 +43,7 @@ Passionate about **software development, cybersecurity, AI/ML, and multi-agent s
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/bojana-naumovska-98b565273/)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bojana-naumovska-98b565273/)  
 - ✉️ [Email](mailto:boninaumovska11@gmail.com)  
 
 ---
